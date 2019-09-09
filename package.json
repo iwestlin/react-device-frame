@@ -1,6 +1,6 @@
 {
-  "name": "react-device-frame",
-  "version": "2.1.4",
+  "name": "@viegg/react-device-frame",
+  "version": "2.1.5",
   "description": "Preview website on a device frame",
   "main": "react-device-frame.js",
   "scripts": {
@@ -9,16 +9,8 @@
     "lint:watch": "esw -w src/**"
   },
   "keywords": "react, device, frame, browser, preview, component",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kimolalekan/react-device-frame.git"
-  },
-  "author": "Olalekan Animashaun <kim.olalekan@gmail.com> (https://kimolalekan.github.io/)",
+  "repository": "iwestlin/react-device-frame",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kimolalekan/react-device-frame/issues"
-  },
-  "homepage": "https://github.com/kimolalekan/react-device-frame#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
