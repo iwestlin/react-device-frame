@@ -1,3 +1,9 @@
+iframe{
+    border: none;
+    width: 100%;
+    min-height: 100%;
+}
+
 .marvel-device {
     display: inline-block;
     position: relative;
@@ -2755,7 +2761,8 @@
     left: -0.5%;
     top: 10px
 }
-html,
+
+/*html,
 body,
 div,
 span,
@@ -3427,9 +3434,4 @@ code {
     background: -webkit-gradient(linear, left top, left bottom, from(#2288fe), to(#fdeba9));
     background: linear-gradient(to bottom, #2288fe 0%, #fdeba9 100%)
 }
-
-iframe{
-border: none;
-width: 100%;
-min-height: 100%;
-}
+*/
